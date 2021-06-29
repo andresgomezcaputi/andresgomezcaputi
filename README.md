@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andresgomezcaputi
 - 👀 I’m interested in blockchain and AI learning
-- 🌱 I’m currently learning programing on javascript at ORT university
+- 🌱 I’m currently learning programing on javascript at ORT University
 - 💞️ I’m looking to collaborate on entry level projects by now
 - 📫 How to reach me at andresgomezcaputi@gmail.com
 <!---
